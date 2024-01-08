@@ -1,0 +1,92 @@
+body {
+    background-color: #EBEBD8; 
+    font-family: 'Righteous', sans-serif;
+    margin: 0;
+}
+.heading {
+    display: flex;
+    align-items: center;
+}
+.blackstar{
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    margin-top: 30px;
+    margin-right: 5px;
+}
+
+.name{
+    color: #203029;
+    font-family: "Righteous";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 30px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.rec1 {
+    width: 100%;
+    height: 30px;
+    flex-shrink: 0;
+    background: #000;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.button{
+    width: 208px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #E7B10A;
+    color: #203029;
+    font-family: "Righteous";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-top: 35px;
+    margin-right: 10px;
+}
+
+
+.button::after {
+    content: 'does nothing'; 
+    display: none; 
+    position: absolute;
+    top: 100%;
+    right: 50%;
+    transform: translateX(50%);
+    padding: 10px;
+    background: #f1c6374f; 
+    border-radius: 5px;
+    color: #203029;
+    font-size: 14px;
+    white-space: nowrap;
+}
+.button:hover::after {
+    display: block;
+}
+
+.hello{
+    color: #203029;
+    font-family: "Righteous";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+
