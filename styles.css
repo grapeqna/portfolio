@@ -145,7 +145,7 @@ body {
 .skills{
     order:1;
     color: #E7B10A;
-    font-family: "Righteous";
+    font-family: 'Righteous', sans-serif;
     font-size: 35px;
     font-style: normal;
     font-weight: 400;
@@ -157,7 +157,7 @@ body {
 
 .lang{
     color: #E7B10A;
-    font-family: "Righteous";
+    font-family: 'Righteous', sans-serif;
     font-size: 25px;
     font-style: normal;
     font-weight: 400;
@@ -179,7 +179,7 @@ body {
 
 .other{
     color: #E7B10A;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 25px;
     font-style: normal;
     font-weight: 400;
@@ -202,7 +202,7 @@ body {
 
 .links{
     color: #E7B10A;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -253,7 +253,7 @@ body {
     border-radius: 25px;
     background: #E7B10A;
     color: #30463D;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -271,7 +271,7 @@ body {
     border-radius: 25px;
     background: #E7B10A;
     color: #30463D;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -289,7 +289,7 @@ body {
 
 .edu{
     color: #EBEBD8;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -301,7 +301,7 @@ body {
 
 .school{
     color: #E7B10A;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -332,7 +332,7 @@ body {
 .hobbies{
     position: absolute;
     color: #203029;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -364,7 +364,7 @@ body {
 
 .languages{
     color: #EBEBD8;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 400;
@@ -382,7 +382,7 @@ body {
 
 .lng1{
     color: #E7B10A;
-    font-family: Righteous;
+    font-family: 'Righteous', sans-serif;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -397,4 +397,3 @@ body {
     font-weight: 400;
     line-height: normal;
 }
-
